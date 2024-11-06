@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+kneipentoursolver.so
+assets.h
+cert
